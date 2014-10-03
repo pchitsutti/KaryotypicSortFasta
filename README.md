@@ -1,4 +1,4 @@
 KaryotypicSortFasta
 ===================
 
-./KaryotypicSortFasta <file.fa> <sorted_file.fa>
+./KaryotypicSortFasta file.fa sorted_file.fa
